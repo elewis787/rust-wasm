@@ -1,6 +1,7 @@
 # rust-wasm
 Messing around with rust to wasm 
 
+*Avoiding emscripten as much as possible*
 
 ### webassembly build 
 ```
