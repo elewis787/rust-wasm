@@ -1,0 +1,8 @@
+[package]
+name = "hello-wasm"
+version = "0.1.0"
+authors = ["Ethan Lewis <elewis@kochava.com>"]
+[[bin]]
+name = "hello_wasm"
+path = "src/hello-wasm.rs"
+[dependencies]
